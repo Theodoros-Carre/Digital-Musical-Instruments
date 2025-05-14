@@ -57,8 +57,20 @@ This project is part of the 2024–2025 Human-Machine Interface (HMI) course and
    pip install PyQt5
    ```
 
-2. Place all required files (`instrument.py`,`Digital Musical Intruments App.py`, icons, images, scores) in the same folder.
-   ⚠️ Warning: When placing the required files in a folder make sure to separate the icons for the toolbar/menu and the images for the video game intrument. To do so create a subfolder where you will place all                the video game images. The remaining toolbar/menu icons (open.png, record.png, stoprecord.png, quit.png) will stay in the main folder, if these icons stay in the subfloder created they will not                  appear when running the code.  
+2. **Organize Your Files**  
+   Place the following files in the **same main directory**:
+   - `instrument.py`
+   - `Digital Musical Instruments App.py`
+   - Musical score files (e.g., `mario.txt`, `bella_ciao.txt`)
+   - Toolbar/menu icons:  
+     - `open.png`  
+     - `record.png`  
+     - `stoprecord.png`  
+     - `quit.png`
+
+   ⚠️ **Important:**  
+   - Create a **subfolder** named exactly `images` inside the main directory to store **video game instrument images**.
+   - Do **not** place the toolbar/menu icons in this subfolder. If these icons are not in the main directory, they will **not display properly** in the application.
    
 3. Run the app:
    ```
