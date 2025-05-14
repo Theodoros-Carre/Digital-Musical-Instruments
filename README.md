@@ -62,6 +62,7 @@ This project is part of the 2024–2025 Human-Machine Interface (HMI) course and
    - `instrument.py`
    - `Digital Musical Instruments App.py`
    - Musical score files (e.g., `mario.txt`, `bella_ciao.txt`)
+   - The image folder for the video game instrument called `images` 
    - Toolbar/menu icons:  
      - `open.png`  
      - `record.png`  
@@ -69,8 +70,7 @@ This project is part of the 2024–2025 Human-Machine Interface (HMI) course and
      - `quit.png`
 
    ⚠️ **Important:**  
-   - Create a **subfolder** named exactly `images` inside the main directory to store **video game instrument images**.
-   - Do **not** place the toolbar/menu icons in this subfolder. If these icons are not in the main directory, they will **not display properly** in the application.
+   - Do **not** place the toolbar/menu icons in the `images` subfolder. If these icons are not in the main directory, they will **not display properly** in the application.
    
 3. Run the app:
    ```
