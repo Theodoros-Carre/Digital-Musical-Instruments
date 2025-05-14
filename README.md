@@ -84,10 +84,10 @@ This project is part of the 2024–2025 Human-Machine Interface (HMI) course and
   `A, Z, E, R, T, Y, U` (mapped to notes Do, Ré, Mi, Fa, Sol, La, Si)
 
 - **Toolbar and menu buttons**:
-  -Open: `Ctrl+O`
-  -Record: `Ctrl+R`
-  -Stop record: `Ctrl+S`
-  -Quit: `Ctrl+Q`
+  - Open: `Ctrl+O`
+  - Record: `Ctrl+R`
+  - Stop record: `Ctrl+S`
+  - Quit: `Ctrl+Q`
   
 ---
 
